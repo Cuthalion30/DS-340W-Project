@@ -1,14 +1,15 @@
 # Topic:Online Search and Topic Selection"
 # Authors:Adam Kenawell and Nathanael Kovscek"
 
-## Keywords
-
+### Keywords
 Adam's Search History
+Lane Detection
 
-Nathanael's Search History
+### Research Papers (3 each)
+https://paperswithcode.com/paper/towards-end-to-end-lane-detection-an-instance <br>
+https://paperswithcode.com/paper/ldnet-end-to-end-lane-detection-approach
 
-## Research Papers (3 each)
+### Presentations (2 each)
 
-## Presentations (2 each)
+### Youtube Clips (2 each)
 
-## Youtube Clips (2 each)
