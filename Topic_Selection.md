@@ -10,8 +10,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Keywords
+Lane Detection
 
 ## Research Papers (3 each)
+https://paperswithcode.com/paper/towards-end-to-end-lane-detection-an-instance
+https://paperswithcode.com/paper/ldnet-end-to-end-lane-detection-approach
 
 ## Presentations (2 each)
 
