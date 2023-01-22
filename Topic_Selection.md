@@ -1,6 +1,6 @@
 
-# title: "Online Search and Topic Selection" <br> 
-## author: "Adam Kenawell and Nathanael Kovscek"
+# "Online Search and Topic Selection" <br> 
+## "Adam Kenawell and Nathanael Kovscek"
 
 
 ### Keywords
